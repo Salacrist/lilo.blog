@@ -20,7 +20,7 @@ Um das zu erreichen, fordert das Behindertengleichstellungsgesetz Massnahmen zur
 
  {{</box>}}
 
- {{<box title="Zahlen und Fakten zu Menschen mit Behinderung">}}
+ {{<box title="Zahlen und Fakten zu Menschen mit Behinderung in der Schweiz">}}
 
 Dem Behindertengleichstellungsgesetz nach (Art. 2) ist ein Mensch mit Behinderung eine Person, der es durch eine voraussichtlich dauernde körperliche, geistige oder psychische Beeinträchtigung erschwert oder unmöglich ist, alltägliche Verrichtungen vorzunehmen, soziale Kontakte zu pflegen, sich fortzubewegen, sich aus- und weiterzubilden oder eine Erwerbstätigkeit auszuüben. Schätzungsweise 1.8 Millionen Menschen mit irgendeiner Form von Beeinträchtigung leben in der Schweiz, dabei gelten 29% als stark beeinträchtigt. Eine Körperbehinderung umschreibt unterschiedliche Arten der Körperlichen Einschränkung, die durch innerliche und äusserliche Schädigungen entstehen und die Funktionen des Körpers beeinträchtigen.
 

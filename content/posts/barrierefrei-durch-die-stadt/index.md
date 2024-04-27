@@ -5,7 +5,11 @@ draft = false
 pinned = false
 image = "screenshot-2024-04-27-092401.png"
 +++
+{{<lead>}}
+
 Das Reisen auf zwei Rädern in der Stadt Bern: Wie viel hat sich seit dem Behindertengleichstellungsgesetz im öffentlichen Verkehr der Schweiz verändert und wie stehen Menschen mit Beeinträchtigung dazu?  
+
+{{</lead>}}
 
 Von Amélie Salacrist und Mascha Aregger 
 

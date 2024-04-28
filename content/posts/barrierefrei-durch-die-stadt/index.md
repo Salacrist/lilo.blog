@@ -21,6 +21,8 @@ Der Nah- und Fernverkehr in der Schweiz gilt als zuverlässig, sauber und gut ve
 
 ![Bahnschienen bei der Welle 7 des Bahnhofes Bern (Quelle: Amélie Salacrist)](screenshot-2024-04-27-092401.png)
 
+
+
 {{<box titel="Behindertengleichsetzungsgesetz">}}
 
 Das Gesetz trat im Januar 2004 in Kraft und steht für eine Gleichsetzung von Menschen, die mit einer Behinderung leben, und Menschen ohne Behinderung.
@@ -30,6 +32,8 @@ Ziel des Gesetzes ist, die Benachteiligung der beeinträchtigten Menschen zu min
 Um das zu erreichen, fordert das Behindertengleichstellungsgesetz Massnahmen zur Beseitigung der Benachteiligungen dieser Personen. Ein zentraler Punkt ist die gerechte Gestaltung des öffentlichen Verkehrs. In einer Verordnung sind die Zahlen und Masse festgehalten, nach denen sich der ÖV richten muss. Grundsätzlich hat das Gesetz an allen öffentlich zugänglichen Orten Wirkungskraft. Ausserdem bei Wohngebäuden mit über achtWohnungen und bei Gebäuden, die mehr als 50 Arbeitende unterbringen. Auch im Bereich der Dienstleistung, Ausbildung wie auch Weiterbildung und bei den Arbeitsverhältnissen muss eine Gleichstellung von Menschen mit einer Beeinträchtigung vorhanden sein.
 
 {{</box>}}
+
+
 
 {{<box titel="Zahlen und Fakten zu Menschen mit Behinderung in der Schweiz">}}
 

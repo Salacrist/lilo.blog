@@ -25,6 +25,8 @@ Der Nah- und Fernverkehr in der Schweiz gilt als zuverlässig, sauber und gut ve
 
 {{<box titel="Behindertengleichsetzungsgesetz">}}
 
+#### Behindertengleichsetzungsgesetz
+
 Das Gesetz trat im Januar 2004 in Kraft und steht für eine Gleichsetzung von Menschen, die mit einer Behinderung leben, und Menschen ohne Behinderung.
 
 Ziel des Gesetzes ist, die Benachteiligung der beeinträchtigten Menschen zu minimieren. So sollten Menschen mit einer Behinderung besser in die Gesellschaft integriert werden.  
@@ -36,6 +38,8 @@ Um das zu erreichen, fordert das Behindertengleichstellungsgesetz Massnahmen zur
 
 
 {{<box titel="Zahlen und Fakten zu Menschen mit Behinderung in der Schweiz">}}
+
+#### Zahlen und Fakten zu Menschen mit Behinderung in der Schweiz
 
 Dem Behindertengleichstellungsgesetz nach (Art. 2) ist ein Mensch mit Behinderung eine Person, der es durch eine voraussichtlich dauernde körperliche, geistige oder psychische Beeinträchtigung erschwert oder unmöglich ist, alltägliche Verrichtungen vorzunehmen, soziale Kontakte zu pflegen, sich fortzubewegen, sich aus- und weiterzubilden oder eine Erwerbstätigkeit auszuüben. Schätzungsweise 1,8 Millionen Menschen mit irgendeiner Form von Beeinträchtigung leben in der Schweiz, dabei gelten 29 % als stark beeinträchtigt. Eine Körperbehinderung umschreibt unterschiedliche Arten der körperlichen Einschränkung, die durch innerliche und äusserliche Schädigungen entstehen und die Funktionen des Körpers beeinträchtigen. 
 

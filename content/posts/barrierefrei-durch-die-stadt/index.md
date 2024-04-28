@@ -47,6 +47,8 @@ Dem Behindertengleichstellungsgesetz nach (Art. 2) ist ein Mensch mit Behinderun
 
 {{</box>}}
 
+
+
 #### Diskriminierung?
 
 Bei einem Ausschluss einer bestimmten Personengruppe, spricht man von Diskriminierung. Doch Philippe, der selbst von dieser Benachteiligung betroffen ist, tut sich schwer zu sagen, dass die Barrieren im öffentlichen Verkehr für ihn eine krasse Form von Diskriminierung seien. Fakt ist, dass es sich um Diskriminierung handelt, wenn Menschen mit Behinderung den ÖV nicht autonom nutzen können. Seit dem 1. Januar 2004 ist das Behindertengleichstellungsgesetz rechtsgültig. Mit dessen Inkraftsetzung müssen alle Transportunternehmen, damit auch die SBB, das autonome Reisen für Menschen mit Einschränkung ermöglichen. Autonom beschreibt in diesem Sinne die Nutzbarkeit der Verkehrsmittel, ohne Hilfe Dritter. Doch in vielen Bereichen der öffentlichen Verkehrsmittel sind Personen, die mit einer Behinderung leben auf Hilfe angewiesen. Laut einer Befragung einer Sozial- Integrationspädagogin, Sarah Sallagar, aus dem Jahr 2020, stelle sich heraus, dass es eine Herausforderung ist, akzeptieren zu müssen, dass man auf andere Personen angewiesen ist.

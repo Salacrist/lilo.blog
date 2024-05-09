@@ -21,8 +21,6 @@ Der Nah- und Fernverkehr in der Schweiz gilt als zuverlässig, sauber und gut ve
 
 ![Bahnschienen bei der Welle 7 des Bahnhofes Bern (Quelle: Amélie Salacrist)](screenshot-2024-04-27-092401.png)
 
-
-
 {{<box titel="Behindertengleichsetzungsgesetz">}}
 
 #### Behindertengleichsetzungsgesetz
@@ -35,8 +33,6 @@ Um das zu erreichen, fordert das Behindertengleichstellungsgesetz Massnahmen zur
 
 {{</box>}}
 
-
-
 {{<box titel="Zahlen und Fakten zu Menschen mit Behinderung in der Schweiz">}}
 
 #### Zahlen und Fakten zu Menschen mit Behinderung in der Schweiz
@@ -47,11 +43,9 @@ Dem Behindertengleichstellungsgesetz nach (Art. 2) ist ein Mensch mit Behinderun
 
 {{</box>}}
 
-
-
 #### Diskriminierung?
 
-Bei einem Ausschluss einer bestimmten Personengruppe, spricht man von Diskriminierung. Doch Philippe, der selbst von dieser Benachteiligung betroffen ist, tut sich schwer zu sagen, dass die Barrieren im öffentlichen Verkehr für ihn eine krasse Form von Diskriminierung seien. Fakt ist, dass es sich um Diskriminierung handelt, wenn Menschen mit Behinderung den ÖV nicht autonom nutzen können. Seit dem 1. Januar 2004 ist das Behindertengleichstellungsgesetz rechtsgültig. Mit dessen Inkraftsetzung müssen alle Transportunternehmen, damit auch die SBB, das autonome Reisen für Menschen mit Einschränkung ermöglichen. Autonom beschreibt in diesem Sinne die Nutzbarkeit der Verkehrsmittel, ohne Hilfe Dritter. Doch in vielen Bereichen der öffentlichen Verkehrsmittel sind Personen, die mit einer Behinderung leben auf Hilfe angewiesen. Laut einer Befragung einer Sozial- Integrationspädagogin, Sarah Sallagar, aus dem Jahr 2020, stelle sich heraus, dass es eine Herausforderung ist, akzeptieren zu müssen, dass man auf andere Personen angewiesen ist.
+Bei einem Ausschluss einer bestimmten Personengruppe, spricht man von Diskriminierung. Fakt ist, dass es sich um Benachteiligung handelt, wenn Menschen mit Behinderung den ÖV nicht autonom nutzen können. Philippe erzählt, dass diese aus Unachtsamkeit und schlechter Kommunikation, seitens der Transportunternehmen, entstanden ist. Seit dem 1. Januar 2004 ist das Behindertengleichstellungsgesetz rechtsgültig. Mit dessen Inkraftsetzung müssen alle Transportunternehmen, damit auch die SBB, das autonome Reisen für Menschen mit Einschränkung ermöglichen. Autonom beschreibt in diesem Sinne die Nutzbarkeit der Verkehrsmittel, ohne Hilfe Dritter. Doch in vielen Bereichen der öffentlichen Verkehrsmittel sind Personen, die mit einer Behinderung leben auf Hilfe angewiesen. Laut einer Befragung einer Sozial- Integrationspädagogin, Sarah Sallagar, aus dem Jahr 2020, stelle sich heraus, dass es eine Herausforderung ist, akzeptieren zu müssen, dass man auf andere Personen angewiesen ist.
 
 ![Philippe Amann (Quelle: Mascha Aregger)](screenshot-2024-04-27-191942.png)
 
@@ -66,8 +60,6 @@ Nun ist einer der wohl wichtigsten Knotenpunkte der Schweiz im Umbau. Der Bahnho
 Bei der Welle 7 sieht die Situation anders aus. Dort muss Philippe nicht die steilen Rampen nehmen. Die SBB selbst, möchten die Kundenfrequenz in Richtung Welle verlagern, denn dort sei ein geradliniges Schienennetz, wie Herr Jordan hinzufügt. Um aber überhaupt dorthin zu gelangen, muss man eine steile Rampe nehmen. Philippe, der Tischtennis und Powerchairhockey spielt, könnte mit einem Handrollstuhl, so wie viele andere, die 12 % Steigung, nicht überwinden. Insgesamt hat sich seit dem 1. Januar 2004 schon viel getan. Laut Anna Riva, Product Managerin von Handicap, sei dieses Datum ein Übergang zwischen einer alten und einer neuen Welt gewesen. Mit dem Behindertengleichstellungsgesetz sei ein anderes Bewusstsein entstanden. Eine Zeitreise offenbart neue Erkenntnisse: begibt man sich 15-16 Jahre in die Vergangenheit, so merkt man einen grossen Unterschied. Kunden wären, als sie angefangen hat, sogar im Gepäckwagen gereist. Dies berichtet Anna Riva mit sichtbarer Emotion. Heute ist dies gar nicht mehr denkbar.
 
 Doch ist es so getan? Philippe ist der Meinung, dass die Schweiz in diesem Zusammenhang weiter sein könnte. Erst als der Entrüstungssturm gross war, sei aus seiner Sicht die Erklärung gekommen, wieso so ein immenser Rückstand zu finden ist. Man spürt die Enttäuschung bei dieser Aussage. Laut ihm solle es in der Schweiz nicht an Geld für Umbauarbeiten fehlen. Finanzielle Probleme als Begründung der Transportunternehmen klingen für ihn wie lahme Ausreden. Heute, im Jahre 2024, sollten die Forderungen des Gesetzes für die Gleichstellung beeinträchtigter Menschen erfüllt sein, doch dies ist leider nicht die Realität. An Zusammenarbeit mit den Behindertenverbänden fehle es auch. Es könne nicht sein, dass die SBB neue Züge bestellt und dann, wenn die Züge schon auf den Schienen sind, Klagen von Behindertenverbänden kommen. Philippe erzählt, dass es bei den letzten Zügen so gewesen sei. Dann frage er sich, mit wem die Verantwortlichen, die letzten Jahre denn gesprochen haben. Die Behindertenverbände müssten auch bemüht sein für alle Kategorien von Behinderungen zu sprechen. Mit dem Zweck, dass nicht ein Verband, z.B. für Sehbehinderte, seine Interessen durchdrückt, sondern dass man zusammen an einem Strang zieht. Denn es gäbe auch viele Leute mit Mehrfachbehinderungen, die nicht nur eine Gehbehinderung haben. Er fügt an: «Also da muss ja irgendetwas komplett schiefgegangen sein.»
-
-
 
 #### Augenöffnender Rundgang
 

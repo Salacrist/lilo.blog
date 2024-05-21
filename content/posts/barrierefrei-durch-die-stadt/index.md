@@ -39,7 +39,7 @@ Um das zu erreichen, fordert das Behindertengleichstellungsgesetz Massnahmen zur
 
 Dem Behindertengleichstellungsgesetz nach (Art. 2) ist ein Mensch mit Behinderung eine Person, der es durch eine voraussichtlich dauernde körperliche, geistige oder psychische Beeinträchtigung erschwert oder unmöglich ist, alltägliche Verrichtungen vorzunehmen, soziale Kontakte zu pflegen, sich fortzubewegen, sich aus- und weiterzubilden oder eine Erwerbstätigkeit auszuüben. Schätzungsweise 1,8 Millionen Menschen mit irgendeiner Form von Beeinträchtigung leben in der Schweiz, dabei gelten 29 % als stark beeinträchtigt. Eine Körperbehinderung umschreibt unterschiedliche Arten der körperlichen Einschränkung, die durch innerliche und äusserliche Schädigungen entstehen und die Funktionen des Körpers beeinträchtigen. 
 
-![Datenquelle: Bundesamt für Statistik (Quelle: Mascha Aregger)](screenshot-2024-04-28-200046.png)
+![Datenquelle: Bundesamt für Statistik (Diagramm: Mascha Aregger)](screenshot-2024-04-28-200046.png)
 
 {{</box>}}
 
@@ -69,7 +69,7 @@ Um bei der Haltestelle Bern Hauptbahnhof den Bus Nummer 12 in der Richtung Zentr
 
 Ein altes Modell fährt ein, doch dies ist für ihn unbetretbar, da es einen Treppeneinstieg hat. Eine Frau an der Haltestelle meint, dass diese auch für ihre Mutter ein Problem darstellten. Philippe sagt im Interview, dass man vermehrt darauf hinweisen müsse, dass der Umbau zur Barrierefreiheit nicht nur ihm helfen würde. Es sei nicht nur für Menschen mit einer Behinderung eine Erleichterung, wenn es Barrierefreier werde, sondern auch für ältere Menschen, Familien und Menschen mit Kinderwagen. «Das ist für alle ein sehr grosser Mehrwert.» Es kommt ein weiteres Tram und siehe da: Philippe kann mit seinem Elektro-Rollstuhl eigenständig einsteigen. Doch nur eine Station weiter, beim Hauptbahnhof, ist das Aussteigen ohne Rampe wieder nicht mehr möglich.
 
-![Die Lücke zwischen dem Tram und dem Gehseig am Bärenplatz in Bern (Quelle: Mascha Aregger)](screenshot-2024-04-27-195740.png)
+![Die Lücke zwischen dem Tram und dem Trottoir am Bärenplatz in Bern (Quelle: Mascha Aregger)](screenshot-2024-04-27-195740.png)
 
 #### Blick in Richtung Zukunft
 
